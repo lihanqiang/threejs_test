@@ -12,7 +12,7 @@ export default {
     }
   },
   created() {
-    console.log(1)
+    console.log(11)
   },
   mounted() {
     let camera, scene, renderer, geometry, material, mesh
